@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Android Gallery Example</string>
+
+    <!-- Menu item that shows simple toast [CHAR LIMIT=24] -->
+    <string name="menu_show_toast">Show toasty toast</string>
+
+    <!-- Toast shown when user clicks toast action item [CHAR LIMIT=48] -->
+    <string name="text_simple_toast">Hi, I am just a simple toast!</string>
+
+</resources>

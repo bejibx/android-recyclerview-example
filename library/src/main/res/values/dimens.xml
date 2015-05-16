@@ -1,0 +1,5 @@
+<resources>
+
+    <dimen name="rv_def_column_width">172dp</dimen>
+
+</resources>

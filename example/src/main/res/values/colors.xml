@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#0099CC</color>
+    <color name="accent_alpha">#550099CC</color>
+</resources>

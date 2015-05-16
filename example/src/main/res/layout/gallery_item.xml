@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<com.bejibx.android.recyclerview.example.ui.widget.CheckableAutofitHeightFrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="80dp"
+    android:layout_height="80dp"
+    android:background="#AAA"
+    android:foreground="@drawable/gallery_item_foreground"
+    tools:ignore="ContentDescription,RtlHardcoded">
+
+    <ImageView
+        android:id="@+id/image"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</com.bejibx.android.recyclerview.example.ui.widget.CheckableAutofitHeightFrameLayout>
